@@ -1,5 +1,5 @@
 - 👋 Hi I'm Dhodi Fahad Kinene!
-A software QA engineer.
+A software Tester & QA engineer.
 I help companies worldwide build bug-free software products
 The best way to reach me is by email: dhodifahad@gmail.com
 
